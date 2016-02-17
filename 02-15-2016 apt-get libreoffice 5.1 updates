@@ -1,0 +1,6 @@
+LibreOffice 5.1 update:
+sudo add-apt-repository ppa:libreoffice/libreoffice-5-1
+sudo apt-get update
+sudo apt-get dist-upgrade
+
+LibreOffice prereleases: https://launchpad.net/~libreoffice/+archive/ubuntu/libreoffice-prereleases
