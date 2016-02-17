@@ -1,0 +1,9 @@
+Command-line git
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
+Generating an ssh key so all this can (hopefully) work:
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
+Security stuff:
+Need to use a personal access token when pushing from the command line and two-factor authorization is enabled.
