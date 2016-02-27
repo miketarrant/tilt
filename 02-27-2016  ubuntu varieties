@@ -1,0 +1,3 @@
+Ubuntu MATE - Appears to use its own software store (probably could apt-get the Ubuntu store)
+Lubuntu - Good for low resources, but a bit limiting.
+Xubuntu - Good comprimise between Ubuntu and Lubuntu, at the cost of more manual config/setup. Quirky behavior with removable media.
