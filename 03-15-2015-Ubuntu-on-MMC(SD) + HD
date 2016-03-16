@@ -7,4 +7,4 @@ swapspace | 2GB | swap; on MMC/SD card  (these are 1GB and 1.25GB RAM systems)
 / | ext4+journaled | 62GB; remaining space on MMC/SD card as root (I used 64GB SD cards)
 
 Make sure the install is pointed to the internal HD for installing the bootloader.
-I set vm.swappiness=5, installed Gnumeric and AbiWord
+I set vm.swappiness=5, installed Gnumeric, AbiWord, and lightweight browser Midori.
